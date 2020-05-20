@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Game\Scripts\Laser.cs" />
     <Compile Include="Assets\Game\Scripts\Player.cs" />
+    <Compile Include="Assets\Game\Scripts\Powerup.cs" />
     <None Include="Assets\Game\Materials\Shaders\Galaxy.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>G:/Repos/unity2D/Space Shooter/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
